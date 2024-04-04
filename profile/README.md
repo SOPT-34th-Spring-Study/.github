@@ -1,12 +1,14 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 진행기록
+### 스프링 핵심 원리 - 기본편 
+| Section | Progress |
+| :--: | :--: |
+| 1. 객체 지향 설계와 스프링 | ready
+| 2. 스프링 핵심 원리 이해1 - 예제만들기 | ready
+| 3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용 | ready
+| 4. 스프링 컨테이너와 스프링 빈 | ready
+| 5. 싱글톤 컨테이너 | ready
+| 6. 컴포넌트 스캔 | ready
+| 7. 의존관계 자동 주입 | ready
+| 8. 빈 생명주기 콜백 | ready
+| 9. 빈 스코프 | ready
+| 10. 다음으로 | ready
